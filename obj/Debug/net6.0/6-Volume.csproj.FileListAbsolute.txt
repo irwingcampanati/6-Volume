@@ -1,0 +1,15 @@
+C:\Users\irwin\OneDrive\Documentos\GitHub\6-Volume\bin\Debug\net6.0\6-Volume.exe
+C:\Users\irwin\OneDrive\Documentos\GitHub\6-Volume\bin\Debug\net6.0\6-Volume.deps.json
+C:\Users\irwin\OneDrive\Documentos\GitHub\6-Volume\bin\Debug\net6.0\6-Volume.runtimeconfig.json
+C:\Users\irwin\OneDrive\Documentos\GitHub\6-Volume\bin\Debug\net6.0\6-Volume.dll
+C:\Users\irwin\OneDrive\Documentos\GitHub\6-Volume\bin\Debug\net6.0\6-Volume.pdb
+C:\Users\irwin\OneDrive\Documentos\GitHub\6-Volume\obj\Debug\net6.0\6-Volume.csproj.AssemblyReference.cache
+C:\Users\irwin\OneDrive\Documentos\GitHub\6-Volume\obj\Debug\net6.0\6-Volume.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irwin\OneDrive\Documentos\GitHub\6-Volume\obj\Debug\net6.0\6-Volume.AssemblyInfoInputs.cache
+C:\Users\irwin\OneDrive\Documentos\GitHub\6-Volume\obj\Debug\net6.0\6-Volume.AssemblyInfo.cs
+C:\Users\irwin\OneDrive\Documentos\GitHub\6-Volume\obj\Debug\net6.0\6-Volume.csproj.CoreCompileInputs.cache
+C:\Users\irwin\OneDrive\Documentos\GitHub\6-Volume\obj\Debug\net6.0\6-Volume.dll
+C:\Users\irwin\OneDrive\Documentos\GitHub\6-Volume\obj\Debug\net6.0\refint\6-Volume.dll
+C:\Users\irwin\OneDrive\Documentos\GitHub\6-Volume\obj\Debug\net6.0\6-Volume.pdb
+C:\Users\irwin\OneDrive\Documentos\GitHub\6-Volume\obj\Debug\net6.0\6-Volume.genruntimeconfig.cache
+C:\Users\irwin\OneDrive\Documentos\GitHub\6-Volume\obj\Debug\net6.0\ref\6-Volume.dll
